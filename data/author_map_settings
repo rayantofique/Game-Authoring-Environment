@@ -1,0 +1,11 @@
+<object-stream>
+  <authoring.backend.MapSettings>
+    <mapName>Default map</mapName>
+    <numPlayers>1</numPlayers>
+    <lossCondition></lossCondition>
+    <resources/>
+    <mapwidth>1000</mapwidth>
+    <mapheight>1000</mapheight>
+    <imagePath>/images/tt.jpg</imagePath>
+  </authoring.backend.MapSettings>
+</object-stream>
