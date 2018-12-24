@@ -9,12 +9,12 @@ Siyuan Chen, Eric Fu, Jamie Kim, Shicheng Rao, Aditya Sridhar, Rayan Tofique, Ed
 ### Hours Worked:
 ~350 hours total
 ### Roles:
+* Rayan: Everything Engine (GameObjects and their properties/interactions, Game conditions)
 * Siyuan: GamePlayer (Player UIs, Unit Action Control)
 * Eric: Data (Integrating Data with rest of project)
 * Jamie: Authoring Environment (Map Settings)
 * Shicheng: Data (Reading/Writing)
 * Aditya: Authoring Environment (Creation of objects/interactions)
-* Rayan: Engine (GameObjects and their properties/interactions, Game conditions)
 * Eddie: GamePlayer (Top Panel class and Player-Authoring communication) 
 * Jing: Moral support
 * Andrew: Server, Engine (high-level organization)
